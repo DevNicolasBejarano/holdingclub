@@ -42,7 +42,10 @@
 *::after {
   box-sizing: border-box;
 }
-
+.botoninicio:hover{
+  color: #000 !important;
+  border-color: #2a80b8 !important;
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
